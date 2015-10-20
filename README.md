@@ -95,6 +95,13 @@ Some ideas for future improvements:
 * got ideas? let me know
 
 
+# Contributors
+
+* [Renzo Toma](https://github.com/rtoma/)
+* [Ernest Micklei](https://github.com/emicklei/)
+* [Ryan Tenney](https://github.com/ryantenney/)
+
+
 # Contribution
 
 Feel free to create an issue or submit a pull request.
